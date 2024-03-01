@@ -54,5 +54,12 @@ Many orders mostly used the standard class which was the cheapest mode to ship. 
 
 The majority of customers are consumers mostly. They stand for over 40% of the total market. The least is the home office.
 
+![Customer By Segment](https://github.com/datawithlusaka/Superstore-Orders-Project/blob/main/Images/customers_by_segment.jpg)
+
+
+
+The most discounted products performed the least. Products such as tables brought losses to the store. In every category, the most discounted products performed very poorly. In categories, the furniture got the most discounts which made it perform well in sales. However, It didn't yield as much profit as expected.
+
+
 
 
