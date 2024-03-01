@@ -46,4 +46,6 @@ Many orders mostly used the standard class which was the cheapest mode to ship. 
 
 ![Preferred Ship Mode](https://github.com/datawithlusaka/Superstore-Orders-Project/blob/main/Images/preferred_ship_mode.jpg)
 
-![Ship Mode By Category](
+![Ship Mode By Category](https://github.com/datawithlusaka/Superstore-Orders-Project/blob/main/Images/category_ship_mode.jpg)
+
+
