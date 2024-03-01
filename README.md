@@ -81,7 +81,7 @@ The binders and storage lifted the number of quantities in office supplies by se
 
 ### Final Dashboard
 
-![Final Dashboard](
+![Final Dashboard](https://github.com/datawithlusaka/Superstore-Orders-Project/blob/main/Images/Final%20Dashboard.jpg)
 
 ### Recommendations
 •	The technology category should drop the machine category or improve its performance to maximize profits.
