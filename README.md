@@ -39,6 +39,11 @@ Technology has made massive gains and profits for the store. It also made slight
 ![Sales By Category](https://github.com/datawithlusaka/Superstore-Orders-Project/blob/main/Images/sales_by_category.jpg)
 
 
-![Quantity By Category](
+![Quantity By Category](https://github.com/datawithlusaka/Superstore-Orders-Project/blob/main/Images/quantity_by_category.jpg)
+
+
+Many orders mostly used the standard class which was the cheapest mode to ship. However, a good number have also preferred first and second-class. The standard class was averagely half of all the other ship modes. The least used was same day which was also the most expensive in the ship mode.
+
+
 
 
