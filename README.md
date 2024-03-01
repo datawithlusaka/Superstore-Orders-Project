@@ -68,3 +68,13 @@ The binders and storage lifted the number of quantities in office supplies by se
 ![Items Sold](https://github.com/datawithlusaka/Superstore-Orders-Project/blob/main/Images/ItemsSold.jpg)
 
 
+### Summary.
+•	Technology led in the number of profits and sales made but office supplies led in the number of items sold.
+
+•	The most used ship mode used was the standard class. It was also the cheapest. Same day was the least used.
+
+•	Most orders came from the consumer segment while the least came from home office.
+
+•	The most discounted products in each category performed very poorly.
+
+•	The worst performing was office supplies which also had tremendous discounts.
