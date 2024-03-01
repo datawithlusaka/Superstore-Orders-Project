@@ -78,3 +78,15 @@ The binders and storage lifted the number of quantities in office supplies by se
 •	The most discounted products in each category performed very poorly.
 
 •	The worst performing was office supplies which also had tremendous discounts.
+
+### Final Dashboard
+
+![Final Dashboard](
+
+### Recommendations
+•	The technology category should drop the machine category or improve its performance to maximize profits.
+
+•	The furniture category performed poorly after having many discounts. Tables were the most discounted and they brought losses. Discounts must be minimized if not done away with completely.
+
+•	Offers should be put in place for the dame day ship mode to encourage more people to ship the same day. Price reduction is also recommended.
+
