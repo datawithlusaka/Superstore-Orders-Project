@@ -48,4 +48,11 @@ Many orders mostly used the standard class which was the cheapest mode to ship. 
 
 ![Ship Mode By Category](https://github.com/datawithlusaka/Superstore-Orders-Project/blob/main/Images/category_ship_mode.jpg)
 
+![Avg Shipping Cost](https://github.com/datawithlusaka/Superstore-Orders-Project/blob/main/Images/avg_cost_by_ship_mode.jpg)
+
+
+
+The majority of customers are consumers mostly. They stand for over 40% of the total market. The least is the home office.
+
+
 
