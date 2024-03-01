@@ -60,6 +60,6 @@ The majority of customers are consumers mostly. They stand for over 40% of the t
 
 The most discounted products performed the least. Products such as tables brought losses to the store. In every category, the most discounted products performed very poorly. In categories, the furniture got the most discounts which made it perform well in sales. However, It didn't yield as much profit as expected.
 
-
+![Discounts](https://github.com/datawithlusaka/Superstore-Orders-Project/blob/main/Images/discounts.jpg)
 
 
