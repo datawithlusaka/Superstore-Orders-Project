@@ -65,5 +65,6 @@ The most discounted products performed the least. Products such as tables brough
 
 The binders and storage lifted the number of quantities in office supplies by selling well. In Technology phones sold well with their accessories
 
+![Items Sold](https://github.com/datawithlusaka/Superstore-Orders-Project/blob/main/Images/ItemsSold.jpg)
 
 
