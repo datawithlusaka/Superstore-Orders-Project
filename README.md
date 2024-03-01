@@ -36,4 +36,9 @@ Technology has made massive gains and profits for the store. It also made slight
 ![Profit By Category](https://github.com/datawithlusaka/Superstore-Orders-Project/blob/main/Images/profit_by_category.jpg)
 
 
-![
+![Sales By Category](https://github.com/datawithlusaka/Superstore-Orders-Project/blob/main/Images/sales_by_category.jpg)
+
+
+![Quantity By Category](
+
+
