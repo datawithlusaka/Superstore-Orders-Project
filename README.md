@@ -29,5 +29,8 @@ This dataset was downloaded from Google Datasets. It consists of over 50k rows a
 
 •	Data Cleansing- is the process of detecting and correcting (or removing) corrupt or inaccurate records from a dataset, table, or database. It involves identifying incomplete, incorrect, irrelevant, etc., parts of the data and then replacing, modifying, or deleting this dirty data. In Excel, data cleansing might involve several steps, depending on the complexity and nature of your data. Ensuring that your data follows a consistent format, is especially important for dates, categorizations, and any text-based information. Sometimes, numbers are formatted as text, which can prevent calculations or logical operations. Outliers can affect averages and other statistical calculations. Missing data can lead to biased analysis and incorrect conclusions.
 
+### Exploratory Data Analysis
+The store made very many sales all over the world which have tremendously increased over time. This has also enabled an increase in net profit over the four years.
+Technology has made massive gains and profits for the store. It also made slightly more than other categories. However, Office supplies lead massively in the number of quantities it sold.
 
 
