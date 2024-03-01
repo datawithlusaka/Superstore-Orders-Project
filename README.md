@@ -33,4 +33,7 @@ This dataset was downloaded from Google Datasets. It consists of over 50k rows a
 The store made very many sales all over the world which have tremendously increased over time. This has also enabled an increase in net profit over the four years.
 Technology has made massive gains and profits for the store. It also made slightly more than other categories. However, Office supplies lead massively in the number of quantities it sold.
 
+![Profit By Category](https://github.com/datawithlusaka/Superstore-Orders-Project/blob/main/Images/profit_by_category.jpg)
 
+
+![
