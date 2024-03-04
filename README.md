@@ -88,6 +88,7 @@ The binders and storage lifted the number of quantities in office supplies by se
 
 •	The furniture category performed poorly after having many discounts. Tables were the most discounted and they brought losses. Discounts must be minimized if not done away with completely.
 
-[Click here for the Project](https://drive.google.com/file/d/1WVnXFerjVMHTfJx_IYqrmsnfM7vrj32v/view?usp=drive_link)
 •	Offers should be put in place for the dame day ship mode to encourage more people to ship the same day. Price reduction is also recommended.
+
+[Click here for the Project](https://drive.google.com/file/d/1WVnXFerjVMHTfJx_IYqrmsnfM7vrj32v/view?usp=drive_link)
 
